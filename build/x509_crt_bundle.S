@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/eyasa/OneDrive/Documents/ESP/ToshibaAC_ESP_IDF-main/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/eyasa/OneDrive/Documents/ESP/3_AC_ESP_IDF-main/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

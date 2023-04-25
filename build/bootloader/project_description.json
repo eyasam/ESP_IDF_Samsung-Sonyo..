@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "C:/Users/eyasa/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "C:/Users/eyasa/OneDrive/Documents/ESP/ToshibaAC_ESP_IDF-main/build/bootloader",
-    "config_file":        "C:/Users/eyasa/OneDrive/Documents/ESP/ToshibaAC_ESP_IDF-main/sdkconfig",
+    "build_dir":          "C:/Users/eyasa/OneDrive/Documents/ESP/3_AC_ESP_IDF-main/build/bootloader",
+    "config_file":        "C:/Users/eyasa/OneDrive/Documents/ESP/3_AC_ESP_IDF-main/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

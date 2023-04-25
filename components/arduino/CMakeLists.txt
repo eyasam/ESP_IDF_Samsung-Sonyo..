@@ -84,6 +84,8 @@ set(LIBRARY_SRCS
   libraries/Ethernet/src/ETH.cpp
   libraries/FFat/src/FFat.cpp
   libraries/FS/src/FS.cpp
+  libraries/ArduinoNvs/src/ArduinoNvs.cpp
+  libraries/WiFiManager/WiFiManager.cpp
 
   libraries/ir_Toshiba/src/ir_Toshiba.cpp
   libraries/IRrecv/src/IRrecv.cpp
@@ -282,6 +284,8 @@ set(includedirs
   libraries/LittleFS/src
   libraries/Insights/src
   libraries/I2S/src
+libraries/ArduinoNvs/src
+libraries/WiFiManager
 
   libraries/ir_Toshiba/src
   libraries/IRrecv/src

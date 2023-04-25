@@ -3,7 +3,7 @@
 #include <IRsend.h>
 #include <ir_Sanyo.h>
 
-IRSanyoAc sanyoAc(4);  // Set the GPIO to be used for sending messages.
+IRSanyoAc sanyoAc(4);     // Set the GPIO to be used for sending messages.
 /*
 void printState() {
    // Display the settings.

@@ -3,10 +3,20 @@
 #include <IRsend.h>
 #include <ir_Samsung.h>
 
+IRSamsungAc ac(4);     // Set the GPIO to be used for sending messages.
 
-IRSamsungAc ac(4);    
-
-void SamsungAC(){
+// void printState() {
+//   // Display the settings.
+//   Serial.println("Samsung A/C remote is in the following state:");
+//   Serial.printf("  %s\n", ac.toString().c_str());
+//   // Display the encoded IR sequence.
+//   unsigned char* ir_code = ac.getRaw();
+//   Serial.print("IR Code: 0x");
+//   for (uint8_t i = 0; i < ac.getStateLength(); i++)
+//     Serial.printf("%02X", ir_code[i]);
+//   Serial.println();
+// }
+void SumsungAC(){
 
   ac.begin();
   Serial.begin(115200);

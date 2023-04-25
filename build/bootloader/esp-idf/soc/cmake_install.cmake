@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/eyasa/OneDrive/Documents/ESP/ToshibaAC_ESP_IDF-main/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
+  include("C:/Users/eyasa/OneDrive/Documents/ESP/3_AC_ESP_IDF-main/build/bootloader/esp-idf/soc/esp32/cmake_install.cmake")
 
 endif()
 

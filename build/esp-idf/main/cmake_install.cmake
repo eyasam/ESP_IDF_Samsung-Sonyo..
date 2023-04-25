@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/eyasa/OneDrive/Documents/ESP/ToshibaAC_ESP_IDF-main/main
+# Install script for directory: C:/Users/eyasa/OneDrive/Documents/ESP/3_AC_ESP_IDF-main/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
